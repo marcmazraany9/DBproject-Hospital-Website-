@@ -1,0 +1,8 @@
+add the following to the db hospital for archive to work correctly:
+Alter table archive 
+Add column user_name VARCHAR(60)
+
+
+
+
+sorry for the inconvenience.
